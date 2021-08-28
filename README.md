@@ -1,1 +1,0 @@
-# flask-quotes-app
